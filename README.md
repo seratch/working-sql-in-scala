@@ -6,6 +6,12 @@ This is a simple example to show how to work with SQL queries in Scala. ScalikeJ
 - [Slick 2.1.0](http://slick.typesafe.com/doc/2.1.0/sql.html)
 - [Anorm 2.3.8](https://www.playframework.com/documentation/2.3.8/ScalaAnorm)
 
+## Blog Article
+
+Why is ScalikeJDBC efficient when working with plain SQL?
+
+http://blog.seratch.net/post/112407302678/
+
 ## How to run
 
 Just `sbt run` will run [examples](https://github.com/seratch/working-sql-in-scala/blob/master/src/main/scala/example/examples.scala).
